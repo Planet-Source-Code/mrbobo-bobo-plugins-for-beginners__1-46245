@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=Project1.vbp
+Project=Dlls\Project2\Project2.vbp
+Project=Dlls\Project3\Project3.vbp
